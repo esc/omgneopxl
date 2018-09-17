@@ -19,13 +19,13 @@ display is called "Theater Chase".
 Getting Started
 ---------------
 
-#. Setup your Onion Omega
-#. Setup Arduino IDE
-#. Install the NeoPixel library
-#. Flash the Arduino wirelessly
-#. Copy the files `bottle.py`, `server.py`, `interface.html` and `run.sh` to
+* Setup your Onion Omega
+* Setup Arduino IDE
+* Install the NeoPixel library
+* Flash the Arduino wirelessly
+* Copy the files `bottle.py`, `server.py`, `interface.html` and `run.sh` to
 the Omega.
-#. Install `run.sh` to start automatically
+* Install `run.sh` to start automatically
 
 
 Licence
